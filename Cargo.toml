@@ -8,4 +8,5 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.70"
 bevy = "0.10.1"
+bevy_fly_camera = "0.10.0"
 if_chain = "1.0.2"
